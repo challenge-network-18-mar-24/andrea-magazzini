@@ -10,3 +10,7 @@
 .border-primary {
   border-color: var(--primary-color);
 }
+
+.test {
+  background-color: #91792d;
+}
