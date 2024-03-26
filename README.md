@@ -1,1 +1,1 @@
-Link presentazione: https://challenge-network-18-mar-24.github.io/andrea-magazzini/
+https://challenge-network-18-mar-24.github.io/andrea-magazzini/
