@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #91792d;
+  --height-nav: 10px;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+}
+
+.border-primary {
+  border-color: var(--primary-color);
+}
